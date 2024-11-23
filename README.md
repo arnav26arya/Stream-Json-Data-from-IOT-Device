@@ -51,3 +51,8 @@ This project demonstrates a basic program for an IoT device to send JSON data to
 1. Install Flask:
    ```bash    
    pip install flask
+#### Json Data Representation using Postman
+![image](https://github.com/user-attachments/assets/30b4f010-1c97-4410-83fc-3f84c4c1196d)
+
+![image](https://github.com/user-attachments/assets/51c5c37f-7ae0-40a7-9002-aa63d2d19ee9)
+
