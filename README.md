@@ -44,6 +44,11 @@ This project demonstrates a basic program for an IoT device to send JSON data to
      const char* apiKey = "YOUR_API_KEY";
      
 3. Open the serial monitor to verify the distance readings and HTTP response from ThingSpeak.
+
+   Serial Monitor
+   ![image](https://github.com/user-attachments/assets/dab2e10d-5d12-4971-b7fa-72dbd3282f36)
+
+   Thingspeek
    ![image](https://github.com/user-attachments/assets/dea9dc07-650a-4a6a-b42f-8d57018a0d1e)
 ---
 
