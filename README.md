@@ -33,7 +33,7 @@ This project demonstrates a basic program for an IoT device to send JSON data to
    - *Echo Pin:* GPIO 14
      ![image](https://github.com/user-attachments/assets/fdb566c7-1114-48fa-8f30-570e1ecd1182)
 
-2. Flash the Arduino code from the [Arduino/iot_arduino_code.ino](./Arduino/iot_arduino_code.ino) file using the Arduino IDE.
+2. Flash the Arduino code from the [Arduino/iot_arduino_code.ino](./Arduino/ultrasonic.ino) file using the Arduino IDE.
    - Set the Wi-Fi credentials in the code:
      cpp
      const char* ssid = "YOUR_SSID";
